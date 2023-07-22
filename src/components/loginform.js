@@ -14,8 +14,8 @@ const LoginForm = ()=>{
             <div className="login-btn" onClick={popup}>Login</div>
             <p className="text">OR LOGIN USING</p>
             <div className="alt-login">
-                <div className="facebook"></div>
-                <div className="google"></div>
+                <div className="facebook" style={{backgroundColor:"green", padding:"15px", textAlign:"center"}}>facebook</div>
+                <div className="google" style={{backgroundColor:"green", padding:"15px", textAlign:"center"}}>google</div>
             </div>
             <div className={popupStyle}>
                 <h3>Login Failed</h3>

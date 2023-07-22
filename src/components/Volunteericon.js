@@ -1,6 +1,6 @@
   import React from 'react';
 import './Volunteericon.css';
-import logo4 from '../logo4.png';
+// import logo4 from '../logo4.png';
 import logo5 from '../logo5.png';
 import logo6 from '../logo6.png';
 import logo7 from '../logo7.png';
@@ -21,7 +21,7 @@ const Volunteerico = ()=>{
                 </br>
                 <span>Grow yourself and access to a wide range volunteering <br></br>&nbsp;&nbsp; opportunities that match your interest and schedule
                 </span>
-                 <img style={{marginLeft:0, marginTop:100, width:740, height:200}} src={logo5}></img>
+                 <img alt='image' style={{marginLeft:0, marginTop:100, width:740, height:200}} src={logo5}></img>
                 <br></br>
                 <br></br>
                 <br></br>
@@ -30,7 +30,7 @@ const Volunteerico = ()=>{
                 <h2 style={{textAlign:'center', marginLeft:60}}>Organsations</h2>
                 <span style={{fontSize:14, marginLeft:60}}>Find skills volunteers for assignements</span>
                 </p>
-                <img style={{marginLeft:325, marginTop:-240, width:740, height:220}} src={logo6}></img>
+                <img alt='image' style={{marginLeft:325, marginTop:-240, width:740, height:220}} src={logo6}></img>
             </div>
             <div>
             <h2 className="get1">About</h2>
@@ -65,7 +65,7 @@ const Volunteerico = ()=>{
                 <br></br>
                 <br></br>
                 </span>
-                <img className='img1' style={{marginBottom:'100cm',width:730, height:110}} src={logo7}></img>
+                <img alt='image' className='img1' style={{marginBottom:'100cm',width:730, height:110}} src={logo7}></img>
                 </p>
             </div>        
         </div>     

@@ -1,6 +1,5 @@
 //import logo from './logo.svg';
 import './App.css';
-import Secondpage from "./components/secondpage";
 import LoginForm from './components/Login';
 import SignUp from './components/SignUp';
 import About from './components/About';

@@ -1,4 +1,4 @@
-import {Routes,React, useNavigate} from 'react';
+import {React} from 'react';
 import './SignUp.css'
 const SignUp = () =>{
    

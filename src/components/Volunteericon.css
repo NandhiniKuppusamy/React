@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    position: relative;
+    top:-500px;
+    left:340px;
+    font-size: 20px;
+}
+ span.volunt{
+    background-color:rgb(133, 4, 189);
+    border-style: solid;
+    color: white;
+}  
+
+.para{
+    text-align: left;
+    left: 300px;
+}
+p.newpara{
+    top: -350px;
+    text-align: center;
+    left: 0px;
+    font-size:-260%;
+}
+p .potential{
+    color: rgb(135, 55, 189)
+}
+div.voluntee p{
+    border: 0.2px solid;
+    width: 55%;
+    height:10ch;
+    block-size:24.2cm;
+    left: 320px;
+    border-color: gainsboro;
+    background-color: rgb(240, 239, 239);
+    padding-right: 50px;
+    border-style:none;
+}
+div.voluntee p span{
+    color: gray;
+}
+
+div.get{
+    border-style: solid;
+    border: 2.5px;
+    height: 2ch;
+    width: 2ch;
+    padding:5px;
+    border-radius: 20px;
+    width:140px;
+    height:30px;
+    margin-left: 300px;
+    background-color:rgb(133, 4, 189);
+    text-align: center;
+}
+/* .get1{
+    margin-left: 350px;
+    margin-top: 80px;
+    border:0.2px solid gray;
+    border-radius: 120px;
+    border-width:0.1vmin;
+    width: 720px;
+    height: 800px;
+    padding: 4%;
+    text-align: center;
+} */
+.get1{
+    margin-left: 350px;
+    border: 0.2px solid;
+    width: 53%;
+    height:10ch;
+    block-size:14cm;
+    left: 320px;
+    border-color: gainsboro;
+    background-color: rgb(240, 239, 239);
+    /* border-radius: 120px; */
+    border-top-left-radius: 120px;
+    border-top-right-radius: 120px;
+    padding-left: 20%;
+    padding-top: 2.5%;
+}
+.img1{
+    margin-left:-0.4cm;
+}

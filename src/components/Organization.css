@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+
+}
+.Organization{
+    position: relative;
+    margin-top: 100px;
+    top: -550px;
+    left: 500px;
+    width: 100px;
+    height: 20px;;
+    font-size: 90%;
+    text-align: center;
+
+}

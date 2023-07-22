@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.about{
+    position: relative;
+    margin-top: 100px;
+    top: -430px;
+    left: 598px;
+    width: 100px;
+    height: 20px;;
+    font-size: 90%;
+    text-align: center;
+}
